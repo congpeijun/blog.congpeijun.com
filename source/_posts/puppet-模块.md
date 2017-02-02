@@ -2,7 +2,7 @@
 title: Puppet 模块
 date: 2012-06-14 21:26:14
 categories:
-tags:[Linux,Puppet,分布式]
+tags: [Linux,Puppet,分布式]
 ---
 ## puppet 模块基础
 
