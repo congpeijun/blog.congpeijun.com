@@ -1,8 +1,12 @@
 ---
 title: 利用linode vps 架设vpn服务器
 date: 2012-06-09 19:48:00
-categories:
-tags: [Linux,vpn,vps,linode]
+categories: Linux
+tags:
+    - Linux
+    - vpn
+    - vps
+    - linode
 ---
 
 再次吐槽下天国的网络

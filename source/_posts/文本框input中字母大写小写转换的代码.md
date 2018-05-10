@@ -2,7 +2,9 @@
 title: 文本框Input中字母大写小写转换的代码
 date: 2012-02-01 10:36:10
 categories:
-tags: [HTML,CSS]
+tags:
+    - HTML
+    - CSS
 ---
 
 首先，要实现的是在文本框输入大写字母自动转换为小写，效果：</li>

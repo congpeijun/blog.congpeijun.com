@@ -3,9 +3,9 @@ title: 将typecho转文章转换到hexo
 date: 2017-02-02 23:56
 categories:
 tags:
-    - 树莓派
-    - typecho
-    - hexo
+  - 树莓派
+  - typecho
+  - hexo
 ---
 
 由于树莓派重做了好几次系统，好久没打理blog了，

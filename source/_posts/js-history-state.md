@@ -1,8 +1,8 @@
 ---
 title: 操作浏览器历史 Manipulating the browser history
 date: 2012-03-01 10:13:05
-categories: [未分类]
-tags: 
+categories:
+tags:
 ---
 本文转载至 <a href="http://weiboria.sinaapp.com/?p=174">http://weiboria.sinaapp.com/?p=174</a>
 

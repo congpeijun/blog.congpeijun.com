@@ -2,7 +2,9 @@
 title: 如何找回git 中丢失的提交(commit)
 date: 2012-02-11 08:54:54
 categories: 
-tags: [Linux,git]
+tags:
+    - Linux
+    - git
 ---
 用git fsck --lost-found命令找出刚才删除的分支里面的提交对象。
 
